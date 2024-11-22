@@ -1,2 +1,0 @@
-# Cloudformation
-Cloudformation project

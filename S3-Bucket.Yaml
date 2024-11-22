@@ -1,0 +1,16 @@
+# CloudFormationTemplateVerion
+# Description
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Cloudformation template for S3 Bucket'
+Resources:
+  S3Bucket:
+   Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'berrio-S3-Bucket-yaml'
+
+
+   
+   
+
+
